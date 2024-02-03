@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\source\\repos\\PSITS_Attendance\\PSITS Attendance.csproj": {}
+    "C:\\Users\\james\\source\\repos\\PSITS_Attendance_New\\PSITS Attendance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\source\\repos\\PSITS_Attendance\\PSITS Attendance.csproj": {
+    "C:\\Users\\james\\source\\repos\\PSITS_Attendance_New\\PSITS Attendance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\source\\repos\\PSITS_Attendance\\PSITS Attendance.csproj",
+        "projectUniqueName": "C:\\Users\\james\\source\\repos\\PSITS_Attendance_New\\PSITS Attendance.csproj",
         "projectName": "PSITS Attendance",
-        "projectPath": "C:\\Users\\james\\source\\repos\\PSITS_Attendance\\PSITS Attendance.csproj",
+        "projectPath": "C:\\Users\\james\\source\\repos\\PSITS_Attendance_New\\PSITS Attendance.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\source\\repos\\PSITS_Attendance\\obj\\",
+        "outputPath": "C:\\Users\\james\\source\\repos\\PSITS_Attendance_New\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,14 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
